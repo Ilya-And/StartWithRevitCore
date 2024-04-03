@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Name>Application StartWithRevitCore Plugin</Name>
+		<Assembly>StartWithRevitCore.dll</Assembly>
+		<FullClassName>StartWithRevitCore.App</FullClassName>
+		<ClientId>ebbc1a9f-740c-4012-afb2-a6f133efbe18</ClientId>
+		<VendorId>sadsdsd</VendorId>
+		<VendorDescription>Test start with Revit</VendorDescription>
+	</AddIn>
+</RevitAddIns>
